@@ -1,5 +1,5 @@
 import socket
-
+// Python Code
 def client_socket():
     host = socket.gethostbyname('192.168.1.161')  # as both code is running on same pc
     port = 6000  # socket server port number
